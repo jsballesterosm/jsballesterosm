@@ -1,8 +1,6 @@
-# 👋 ¡Hola! Soy Juan Sebastián Ballesteros  
-### 🇬🇧 Hi there! I'm Juan Sebastián Ballesteros
-
-🚀 **Líder Técnico | Arquitecto de Software | Cloud Engineer (GCP & AWS) | Sr. Backend Developer**  
-Bogotá D.C., Colombia  
+<h1 align="center">👋 ¡Hola! Soy Juan Sebastián Ballesteros</h1>
+<h3 align="center">🇨🇴 Líder Técnico | Arquitecto de Software | Cloud Engineer (GCP & AWS) | Sr. Backend Developer</h3>
+<p align="center">Bogotá D.C., Colombia</p>
 
 ---
 
