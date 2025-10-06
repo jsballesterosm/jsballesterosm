@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan Sebastián Ballesteros  
+### 🇬🇧 Hi there! I'm Juan Sebastián Ballesteros
 
-<!--
-**jsballesterosm/jsballesterosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Líder Técnico | Arquitecto de Software | Cloud Engineer (GCP & AWS) | Sr. Backend Developer**  
+Bogotá D.C., Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mí / About me
+**ES:**  
+Soy Ingeniero de Sistemas y Magíster en Ingeniería de Software con más de 10 años de experiencia en desarrollo, arquitectura e integración de sistemas empresariales.  
+Lidero equipos de tecnología en entornos de alto desempeño, construyendo soluciones en la nube (GCP / AWS), integraciones SAP, APIs y sistemas analíticos sobre BigQuery.
+
+**EN:**  
+Systems Engineer and M.Sc. in Software Engineering with 10+ years of experience in software architecture, cloud computing, and enterprise system integration.  
+I lead high-performance teams building cloud-native solutions (GCP / AWS), SAP integrations, and analytical systems over BigQuery.
+
+---
+
+## 🧰 Tech Stack
+
+| Categoría | Tecnologías |
+|------------|--------------|
+| **Backend** | Python (FastAPI, Flask, Django), Java (Spring Boot), Node.js (NestJS) |
+| **Frontend** | Angular, Flutter, TypeScript, Dart |
+| **Cloud** | GCP (Cloud Run, BigQuery, Vertex AI, Document AI), AWS (Lambda, ECS, DynamoDB) |
+| **Bases de datos** | MongoDB, PostgreSQL, MySQL, SQL Server, AlloyDB |
+| **Infraestructura** | Docker, Linux (CentOS), Load Balancers, Pub/Sub, Workflows |
+| **DevOps & CI/CD** | Cloud Build, GitHub Actions, Docker Compose |
+| **Integraciones** | SOAP / REST APIs, SAP PI, Data Pipelines |
+
+---
+
+## 🧩 Proyectos Destacados / Featured Projects
+
+### 🔹 Agrimanager – Ecosistema Puerto Antioquia
+> Plataforma analítica y operacional basada en microservicios (NestJS, Spring Boot, BigQuery, SAP).
+
+- Arquitectura híbrida GCP–AWS con despliegue CI/CD automatizado.  
+- Integración directa con servicios SAP (SOAP WSDL).  
+- Análisis masivo de datos agrícolas con MongoDb.  
+- Diseño de módulos: **Alineación**, **Abastecimiento**, **Logs**, **Contenedores**, **AvanceEmpacadora**.
+
+---
+
+### 🔹 AutoMás Platform
+> Ecosistema de servicios para gestión de inspecciones, peritajes y fidelización.
+
+- API en NestJS conectada a Flutter App.  
+- Integración de inteligencia artificial para reconocimiento de daños vehiculares.  
+- Arquitectura orientada a microservicios y serverless con Cloud Run.
+- Reconocimeinto de riesgos de fraude con variables usando algoritmos con Score
+- Modelo Analitico para cargue , actualizacion de datos para BPO
+
+---
+
+## 🧠 Intereses / Interests
+- Arquitectura de software y diseño limpio (Clean Architecture, Hexagonal)
+- Inteligencia artificial aplicada (Document AI, Vision AI)
+- Big Data & Analítica empresarial
+- DevOps, automatización y observabilidad
+- Mentoría técnica y liderazgo de equipos
+
+---
+
+## 🌐 Conecta conmigo / Connect with me
+- [LinkedIn](https://www.linkedin.com/in/jsbm18)
+- [GitHub](https://github.com/jsballesterosm)
+- [Correo](mailto:tu.ingeniero.sebas@gmail.com)
