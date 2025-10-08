@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Juan Sebastian Ballesteros</h1>
+<h1 align="center">👋🏻 ¡Hola! Soy Juan Sebastian Ballesteros</h1>
 <h3 align="center">🇨🇴 Líder Técnico | Arquitecto de Software | Cloud Engineer (GCP & AWS) | Sr. Backend Developer</h3>
 <p align="center">Bogotá D.C., Colombia</p>
 
