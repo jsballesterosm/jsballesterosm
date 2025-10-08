@@ -25,6 +25,7 @@ I am a Systems Engineer and Master in Software Engineering with over 10 years of
 | **Infraestructura** | Docker, Linux (CentOS), Load Balancers, Pub/Sub, Workflows |
 | **DevOps & CI/CD** | Cloud Build, GitHub Actions, Docker Compose |
 | **Integraciones** | SOAP / REST APIs, SAP PI, Data Pipelines |
+| **Automatización & Web Scraping** | Playwright, Selenium, Python Scripts for Task Automation |
 
 ---
 
