@@ -17,8 +17,9 @@ mediante arquitecturas escalables, seguras y orientadas a microservicios.
 </p>
 
 **ES:**  
+<p align="center">
 I am a Systems Engineer and Master in Software Engineering with over 10 years of experience in software development, architecture, and enterprise system integration. I lead high-performance technology teams, building cloud solutions (GCP / AWS), SAP integrations, APIs, and analytical systems on BigQuery. I have developed and implemented artificial intelligence models using Gemini and Vertex AI for data analysis, pattern detection in images and videos, as well as training machine learning models applied to classification, prediction, and visual recognition. Passionate about technological innovation, automation, and the continuous delivery of value through scalable, secure, and microservice-oriented architectures.
-
+</p>
 
 ---
 
