@@ -6,6 +6,7 @@
 
 ## 🧭 Sobre mí / About me
 **ES:**  
+<p align="center">
 Soy Ingeniero de Sistemas y Magíster en Ingeniería de Software con más de 10 años de experiencia en desarrollo,
 arquitectura e integración de sistemas empresariales. Líder de equipos de tecnología de alto desempeño, construyendo
 soluciones en la nube (GCP / AWS), integraciones SAP, APIs y sistemas analíticos sobre BigQuery. He desarrollado e
@@ -13,7 +14,7 @@ implementado modelos de inteligencia artificial con Gemini y Vertex AI para el a
 en imágenes y videos, así como entrenamiento de modelos de machine learning aplicados a clasificación, predicción y
 reconocimiento visual. Apasionado por la innovación tecnológica, la automatización y la entrega continua de valor
 mediante arquitecturas escalables, seguras y orientadas a microservicios.
-
+</p>
 
 **ES:**  
 I am a Systems Engineer and Master in Software Engineering with over 10 years of experience in software development, architecture, and enterprise system integration. I lead high-performance technology teams, building cloud solutions (GCP / AWS), SAP integrations, APIs, and analytical systems on BigQuery. I have developed and implemented artificial intelligence models using Gemini and Vertex AI for data analysis, pattern detection in images and videos, as well as training machine learning models applied to classification, prediction, and visual recognition. Passionate about technological innovation, automation, and the continuous delivery of value through scalable, secure, and microservice-oriented architectures.
